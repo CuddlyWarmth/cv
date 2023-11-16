@@ -52,5 +52,7 @@
 
 ## Languages
 **Dutch**: Native
+
 **English**: A2
+
 **Cantonese**: B1

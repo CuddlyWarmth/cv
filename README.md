@@ -2,7 +2,7 @@
 *MSc Robotics student at the TU Delft*
 [Email](mailto:mdyang2000@gmail.com) / [LinkedIn](www.linkedin.com/in/mingdayang) / [GitHub](https://github.com/CuddlyWarmth)
 
-## Education 
+## Education 🎓
 **MSc Robotics** at the Technical University of Delft *(2023-2025)*
 
 **BSc Mechanical Engineering** at the Technical University of Delft *(2019-2022)*
@@ -30,7 +30,7 @@
 - Handled the register and transactions.
 - Customer interaction guiding them throughout the attraction.
 
-## Skills and Qualifications
+## Skills and Qualifications 📃
 ### Programming Languages
 **Python**: Intermediate
 1. Completed and fully went throug the book "Think Python - How to think like a Computer Scientist" by Allen Downey.
@@ -50,7 +50,7 @@
 **Solidworks**: CSWA - Mechanical Design certificate
 
 
-## Languages
+## Languages 💬
 **Dutch**: Native
 
 **English**: A2

@@ -12,7 +12,7 @@
 
 **Atheneum+** N-T Profile at Hyperion Lyceum *(2013-2019)*
 
-## Work experience
+## Work experience 💻
 **Logistics & Production Assistant** at TU Delft X *(09/2022-Present)*
 - Responsible for opening and closing the building, transport ad preparatino of materials of programs within X.
 

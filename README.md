@@ -8,7 +8,7 @@
 
 **BSc Mechanical Engineering** at the Technical University of Delft *(2019-2022)*
 - Completed the minor [TI-MI-200-22 Computer Science](https://studiegids.tudelft.nl/a101_displayProgram.do?program_tree_id=28512) at TU Delft.
-- Bachelor Thesis [“Improving rowing performance by adjusting oar blade size and angle”]((https://www.frontiersin.org/articles/10.3389/fspor.2023.1109494/full)) submitted to the Journal Frontiers in Sports and Active Living. Research consisted of improving software of a rowing robot, conducting experiments to compare different oar blades and data analysis of acquired data through the experiments.
+- Bachelor Thesis [“Improving rowing performance by adjusting oar blade size and angle”](https://www.frontiersin.org/articles/10.3389/fspor.2023.1109494/full) submitted to the Journal Frontiers in Sports and Active Living. Research consisted of improving software of a rowing robot, conducting experiments to compare different oar blades and data analysis of acquired data through the experiments.
 
 **Atheneum+** N-T Profile at Hyperion Lyceum *(2013-2019)*
 

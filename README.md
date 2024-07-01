@@ -14,7 +14,7 @@
 
 ## Work experience 💻
 **Logistics & Production Assistant** at TU Delft X *(09/2022-Present)*
-- Responsible for opening and closing the building, transport ad preparation of materials of programs within X.
+- Responsible for opening and closing the building, transport and preparation of materials of programs within X.
 
 **Light and Sound technician** at TU Delft X *(09/2022-Present)*
 - Varying tasks including building up stages, using mixer to tune the soundstage and breaking down the stages.
@@ -26,7 +26,7 @@
 - Graded homework assignments sent in by the students.
 
 **Guest Service Crew** at THIS IS HOLLAND *(09/2017-09/2019)*
-- Flexible position doing several jobs depending on the da.
+- Flexible position doing several jobs depending on the day.
 - Worked in the catering section serving customers.
 - Handled the register and transactions.
 - Customer interaction guiding them throughout the attraction.

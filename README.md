@@ -1,7 +1,7 @@
 # Ming Da Yang
 *MSc Robotics student at the TU Delft*
 
-[Email](mailto:mdyang2000@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mingdayang) / [GitHub](https://github.com/CuddlyWarmth)
+[Email](mailto:mdyang2000@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mingdayang) / [GitHub](https://github.com/mln9d4)
 
 ## Education 🎓
 **MSc Robotics** at the Technical University of Delft *(2023-2025)*
